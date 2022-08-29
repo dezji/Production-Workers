@@ -1,7 +1,4 @@
 # Author Name: Deziallia Morris
-# Date: 10/27/2021
-# Program Name: Morris_ProdWorker.py
-# Purpose: Create an employee object and display the results
 
 class Employee:
 
